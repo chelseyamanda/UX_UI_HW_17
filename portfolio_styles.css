@@ -1,0 +1,157 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing:border-box;
+}
+
+.navigation {
+  color: #FFF;
+  background-color: #8D9B8A;
+  font-family: Garamond, serif;
+  font-weight: bold;
+
+  height: 246px;
+  padding: 75px;
+  display: flex;
+  justify-content: space-between;
+  vertical-align: center;
+}
+
+.logo {
+  font-size: 64px;
+  color:#FFF;
+}
+
+.links {
+  margin-right: 150px;
+  font-weight:lighter;
+
+}
+
+.about {
+  padding-bottom: 30px;
+  font-size:36px;
+  color: #EAB6B6;
+}
+
+.work {
+  font-size:36px;
+}
+
+
+
+.herobanner {
+  background-color: #D9BBA9;
+  border: 6px solid #EAC9C9;
+  height: 800px;
+
+  color: #FFF;
+
+  display: flex;
+  justify-content: space-between;
+  padding-left: 40px;
+  font-family: Garamond;
+  font-weight: bold;
+  font-size: 72px;
+  padding-top: 50px;
+  padding-right:50px;
+
+}
+
+
+
+.biobox {
+  color: #FFF;
+  background-color: #D9BBA9;
+  width: 300px;
+  margin-top: 100px;
+  margin-left: 175px;
+  font-family: Garamond;
+  font-weight: lighter;
+  font-size: 68px;
+}
+
+
+.cover_photo {
+  width:200px;
+  height:200px;
+  margin-top: 150px;
+}
+
+.seebelow {
+  background-color: #8D9B8A;
+  height: 200px;
+  color:#FFF;
+  text-align:left;
+  font-family:Garamond;
+}
+
+.soulplant {
+  display:flex;
+  justify-content:space-around;
+  height: 718px;
+  background-color: #E9C966;
+  border: 6px solid #F4E6B8;
+  font-family:Garamond, serif;
+  font-weight:lighter;
+  font-size:48px;
+  text-align: left;
+  color:#FFF;
+  padding-left: 25px;
+  padding-top:35px;
+  padding-bottom:50px;
+  padding-right: 30px;
+}
+
+.soultext {
+  font-size: 24px;
+  font-family: Garamond;
+  font-weight:lighter;
+  padding:inherit;
+}
+
+.inbetween {
+  background-color: #8D9B8A;
+  height: 125px;
+}
+
+.fcc {
+  display:flex;
+  justify-content:space-between;
+  height: 718px;
+  background-color: #75AFBD;
+  border: 6px solid #86D0E1;
+  font-family:Garamond;
+  font-weight:lighter;
+  font-size:24px;
+  color:#FFF;
+  padding-left: 25px;
+  padding-top:35px;
+  padding-bottom:50px;
+  padding-right:30px;
+
+}
+
+
+
+.project-transitions {
+  display:flex;
+  justify-content:space-between;
+  height: 718px;
+  background-color: #BB9595;
+  border: 6px solid #EBADAD;
+  font-family:Garamond;
+  font-weight:lighter;
+  font-size:24px;
+  color:#FFF;
+  padding-left:25px;
+  padding-top:35px;
+  padding-bottom:50px;
+  padding-right:30px;
+}
+
+.footer {
+  display:flex;
+  height: 375px;
+  background-color:#8D9B8A;
+}
